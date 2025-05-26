@@ -31,10 +31,10 @@ This project aims to demonstrate the OPNsense Firewall along with Suricata IDPS 
 Set-Up-OPNsense-Firewall-along-with-Suricata/
 ├── README.md
 ├── Abstract.md
-├── OPNsense-Config/
+├── OPNsense_Config/
 │   ├── OPNsense_config.xml
 │   ├── Notes.md
-├── screenshots/
+├── Screenshots/
 │   ├── dashboard.png
 │   ├── Firewall_SSH_Block_Logs.png
 │   ├── Interface_OPT1_Rules.png
@@ -46,6 +46,6 @@ Set-Up-OPNsense-Firewall-along-with-Suricata/
 │   ├── Ubuntu_Network_Configuration.png
 │   ├── Ubuntu_Nmap_Scan.png
 │   └── Windows_11_Network_Configuration.png
-└── kali-attack-scripts/
-    ├── hping3-ddos.sh
+└── kali_attack_script/
+    ├── hping3_ddos.sh
     └── notes.txt
