@@ -30,22 +30,22 @@ This project aims to demonstrate the OPNsense Firewall along with Suricata IDPS 
 ```bash
 opnsense-ids-ddos-demo/
 ├── README.md
-├── abstract.md
-├── opnsense-config/
-│   ├── opnsense-full-config.xml
-│   ├── enabled-rules.txt
-│   ├── fast.log
-│   ├── drop.log
-│   ├── firewall.log
-│   ├── interfaces.txt
-│   └── routing-table.txt
+├── Abstract.md
+├── OPNsense-Config/
+│   ├── OPNsense_config.xml
+│   ├── Notes.md
 ├── screenshots/
 │   ├── dashboard.png
-│   ├── ids-alerts-before.png
-│   ├── ids-alerts-after.png
-│   ├── firewall-rules.png
-│   ├── suricata-enabled-rules.png
-│   └── ping-attack.png
+│   ├── Firewall_SSH_Block_Logs.png
+│   ├── Interface_OPT1_Rules.png
+│   ├── KALI_DOS_Simulation.png
+│   ├── OPNsense_Interfaces.png
+│   ├── Suricata_Alerts.png
+│   ├── Suricata_Log_File.png
+│   ├── TestMyIds_Demo.png
+│   ├── Ubuntu_Network_Configuration.png
+│   ├── Ubuntu_Nmap_Scan.png
+│   └── Windows_11_Network_Configuration.png
 └── kali-attack-scripts/
     ├── hping3-ddos.sh
     └── notes.txt
