@@ -25,21 +25,6 @@ This project aims to demonstrate the OPNsense Firewall along with Suricata IDPS 
 
 ---
 
-## 🖼️ Screenshots
-
-| Screenshot Description | Filename |
-|------------------------|----------|
-| OPNsense Dashboard | `dashboard.png` |
-| Alerts before attack | `ids-alerts-before.png` |
-| Alerts after attack | `ids-alerts-after.png` |
-| Enabled Suricata Rules | `suricata-enabled-rules.png` |
-| Firewall Rules | `firewall-rules.png` |
-| Attack CLI | `ping-attack.png` |
-
-You can find these in the `screenshots/` folder.
-
----
-
 ## 📁 Folder Structure
 
 ```bash
