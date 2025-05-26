@@ -28,7 +28,7 @@ This project aims to demonstrate the OPNsense Firewall along with Suricata IDPS 
 ## 📁 Folder Structure
 
 ```bash
-opnsense-ids-ddos-demo/
+Set-Up-OPNsense-Firewall-along-with-Suricata/
 ├── README.md
 ├── Abstract.md
 ├── OPNsense-Config/
